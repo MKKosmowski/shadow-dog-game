@@ -4,7 +4,7 @@ Simple 2d platform game made in JS.
 
 ## Getting Started
 
-Launch game with website server (e. g. Live Server in VS Code)
+Launch game with a website server (e. g. Live Server in VS Code).
 
 ## Gameplay
 
